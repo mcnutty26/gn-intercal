@@ -1,0 +1,23 @@
+DO ,1 <- #20
+PLEASE DO ,1 SUB #1 <- #14
+DO ,1 SUB #2 <- #216
+DO ,1 SUB #3 <- #40
+DO ,1 SUB #4 <- #216
+DO ,1 SUB #5 <- #202
+DO ,1 SUB #6 <- #54
+DO ,1 SUB #7 <- #0
+PLEASE DO ,1 SUB #8 <- #0
+DO ,1 SUB #9 <- #40
+DO ,1 SUB #10 <- #162
+DO ,1 SUB #11 <- #94
+DO ,1 SUB #12 <- #216
+DO ,1 SUB #13 <- #40
+DO ,1 SUB #14 <- #0
+PLEASE DO ,1 SUB #15 <- #162
+DO ,1 SUB #16 <- #94
+DO ,1 SUB #17 <- #216
+DO ,1 SUB #18 <- #0
+DO ,1 SUB #19 <- #40
+DO ,1 SUB #20 <- #162
+PLEASE READ OUT ,1
+PLEASE GIVE UP
